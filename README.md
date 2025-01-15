@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug and its solution. The bug involves attempting to insert content into a div element that doesn't exist in the DOM before the script runs.  This often results in a silent failure, making it difficult to debug.
